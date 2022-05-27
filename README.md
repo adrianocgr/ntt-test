@@ -1,0 +1,1 @@
+To test the project, run the main method of the src/main/java/br/com/adriano/App.java class
